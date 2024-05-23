@@ -1,4 +1,8 @@
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AswinBarath/AswinBarath/master/coding.gif">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AswinBarath/AswinBarath/master/coding.gif" alt="MasterHead">
+</p>
+
 <h1 align="center">Hi 👋, I'm Shyam Vanjani</h1>
 <h3 align="center">A passionate MERN-Stack developer from India</h3>
 
