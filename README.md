@@ -11,7 +11,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shyamvanjani" alt="shyamvanjani" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://shyam-vanjani-portfolio.vercel.app/](https://shyam-vanjani-portfolio.vercel.app/)
+
 - 💬 Ask me about **ReactJs,NodeJS etc.**
+- 📄 Know about my experiences [https://drive.google.com/file/d/164T9CiN_q8GGwCYIQNnUYa3HNsvwwdWC/view](https://drive.google.com/file/d/164T9CiN_q8GGwCYIQNnUYa3HNsvwwdWC/view)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
